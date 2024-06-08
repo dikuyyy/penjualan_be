@@ -1,10 +1,5 @@
 # Dokumentasi API
 
-## Informasi Umum
-
-- Semua endpoint API diawali dengan `/api` sesuai dengan pengaturan routing API Laravel.
-- Autentikasi diperlukan untuk semua endpoint, menggunakan `auth:sanctum`.
-
 ## Endpoint
 
 ### 1. Jenis Barang
